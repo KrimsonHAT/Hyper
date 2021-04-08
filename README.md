@@ -21,7 +21,7 @@ En este curso vimos de todo:
 * Trucos
 * Creado por el Increíble Fab Team
 * Incluye ejemplos en Windows Linux y Mac
-
+* Disponible para todas las edades
 
 
 
