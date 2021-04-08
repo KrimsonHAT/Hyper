@@ -20,7 +20,7 @@ En este curso vimos de todo:
 * Colaborar con proyectos OPEN SOURCE
 * Trucos
 * Creado por el Increíble Fab Team
-
+* Incluye ejemplos en Windows Linux y Mac
 
 
 
