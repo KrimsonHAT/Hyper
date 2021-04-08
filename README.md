@@ -19,6 +19,7 @@ En este curso vimos de todo:
 * Clone
 * Colaborar con proyectos OPEN SOURCE
 * Trucos
+* Creado por el Increíble Fab Team
 
 
 
